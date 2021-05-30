@@ -1,6 +1,6 @@
-# 🐶 Multi-class Dog Breed Classification | <a href="https://colab.research.google.com/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" align="bottom" alt="Open In Colab"/></a>
+# 🐶 Multi-class Dog Breed Classification | <a href="https://colab.research.google.com/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" align="bottom" alt="Open In Colab"/></a>
 
-### [Google Colaboratory Link](https://colab.research.google.com/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb) | [Jupyter Notebook - NBViewer Link](https://nbviewer.jupyter.org/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb)
+### <a href="https://colab.research.google.com/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb" target="_blank">Google Colaboratory Link</a> | <a href="https://nbviewer.jupyter.org/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb" target="_blank">Jupyter Notebook - NBViewer Link</a>
 
 This project builds an end-to-end multi-class image classifier using **TensorFlow 2.0** and **TensorFlow Hub** which helps us identify different breeds of dogs.
 

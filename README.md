@@ -9,13 +9,13 @@ To do this, we'll be using data from the **[Kaggle dog breed identification comp
 This kind of problem is called multi-class image classification. It's multi-class because we're trying to classify multiple different breeds of dog. If we were only trying to classify dogs versus cats, it would be called binary classification (one thing versus another).
 
 #### Libraries used:
-    * NumPy
-    * Pandas
-    * Matplotlib
-    * TensorFlow
-    * TensorFlow Hub
-    * IPython
-    * Scikit-learn (sklearn)
+ * NumPy
+ * Pandas
+ * Matplotlib
+ * TensorFlow
+ * TensorFlow Hub
+ * IPython
+ * Scikit-learn (sklearn)
 
 ## Some important points about the project:
 

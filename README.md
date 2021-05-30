@@ -1,4 +1,8 @@
+<a href="https://colab.research.google.com/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # 🐶 Multi-class Dog Breed Classification
+
+### [Google Colaboratory Link](https://colab.research.google.com/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb) | [Jupyter Notebook - NBViewer Link](https://nbviewer.jupyter.org/github/Madhur6234/Multi-class-Dog-Breed-Classification/blob/main/dog_breed_identification.ipynb)
 
 This project builds an end-to-end multi-class image classifier using **TensorFlow 2.0** and **TensorFlow Hub** which helps us identify different breeds of dogs.
 
@@ -39,4 +43,4 @@ Some information about the data:
 * We're dealing with images (unstructured data) so it's probably best we use deep learning/transfer learning.
 * There are 120 breeds of dogs (this means there are 120 different classes).
 * There are around 10,000+ images in the training set (these images have labels).
-* There are around 10,000+ images in the test set (these images have no labels because we'll want to predict them). 
+* There are around 10,000+ images in the test set (these images have no labels because we'll want to predict them).

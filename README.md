@@ -14,7 +14,6 @@ This kind of problem is called multi-class image classification. It's multi-clas
  * Matplotlib
  * TensorFlow
  * TensorFlow Hub
- * IPython
  * Scikit-learn (sklearn)
 
 ## Some important points about the project:
